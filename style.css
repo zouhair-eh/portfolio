@@ -1,0 +1,21 @@
+/* ====== 1) Global ====== */
+*{
+  box-sizing: border-box;
+}
+nav{
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+}
+.i{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h1{
+  text-align: center;
+}
+.about{
+  display: flex;
+  justify-content: center;
+}
